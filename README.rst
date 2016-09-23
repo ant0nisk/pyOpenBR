@@ -132,7 +132,7 @@ is the reason why I publish it as open-source.
 Contact:
 ========
 
-You can contact me via e-mail at: antonis.katzourakis*{AT}*gmail*{DOT}*com
+You can contact me via e-mail at: antonis.katzourakis{AT}gmail{DOT}com
 
 Twitter: `@ant0nisktz <https://www.twitter.com/ant0nisktz>`_
 
