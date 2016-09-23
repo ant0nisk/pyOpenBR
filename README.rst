@@ -1,8 +1,7 @@
 pyopenbr
 ========
 
-An alternative of the Python Wrapper for OpenBR which uses the Command
-Line Tool.
+An alternative Python wrapper for OpenBR which uses the Command Line Tool.
 
 Simple Usage:
 -------------
@@ -133,7 +132,7 @@ is the reason why I publish it as open-source.
 Contact:
 ========
 
-You can contact me via e-mail at: antonis.katzourakis{AT}gmail{DOT}com
+You can contact me via e-mail at: antonis.katzourakis*{AT}*gmail*{DOT}*com
 
 Twitter: `@ant0nisktz <https://www.twitter.com/ant0nisktz>`_
 
