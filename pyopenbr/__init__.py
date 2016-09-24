@@ -65,9 +65,11 @@ def run(output = None, *br_args, **k_br_args):
             readerData = csv.DictReader(f)
             csvData = {}
             for row in readerData:
-                csvData.update(row)
-        
-            del(csvData['File'])
+                key = row['File']
+                del(row['File'])
+                val = row.values()[0]
+                csvData[key] = val
+            
             br_output = csvData
         else:
             br_output = f.read()
