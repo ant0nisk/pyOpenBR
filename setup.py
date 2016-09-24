@@ -5,7 +5,7 @@ def readme():
         return f.read()
 
 setup(name='pyopenbr',
-      version='0.1',
+      version='0.2',
       description='Improved Python Wrapper for the OpenBR Command-line Tool.',
       long_description=readme(),
       classifiers=[
